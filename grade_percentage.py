@@ -2,12 +2,11 @@
 
 # Created by Samuel Webster
 # Created on March 2022
-# This program calculates the area of a triangle
-#     with inputted radius
+# This program calculates middle grade percentage
 
 
 def calculate_percentage(grade):
-    # I calculate area
+    # I calculate grade percentage
 
     # process
     if grade == "4+":
